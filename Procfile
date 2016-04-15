@@ -1,0 +1,1 @@
+web: lein run -m transactolator-tester.core
